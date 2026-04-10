@@ -1,0 +1,6 @@
+torch>=2.0.0
+transformers>=4.40.0
+huggingface-hub>=0.20.0
+deep-translator>=1.11.4
+PyQt5>=5.15.0
+accelerate>=0.21.0
